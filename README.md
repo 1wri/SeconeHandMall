@@ -35,6 +35,7 @@
 公众号ID：xzzard
 
 
+![img.png](img.png)
 
 ## 接毕业设计和论文
 
